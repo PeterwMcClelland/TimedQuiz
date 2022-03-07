@@ -9,6 +9,6 @@ A coding quiz that is timed and keeps track of peoples high scores.
 * Javascript
 
 ## Website
-
+https://peterwmcclelland.github.io/TimedQuiz/
 
 
