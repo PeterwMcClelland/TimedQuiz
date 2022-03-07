@@ -1,0 +1,51 @@
+body {
+    background-color: #d1d1d1; 
+}
+
+h1, 
+h2 {
+    color: #ffe988;
+    font-family: 'Montserrat', sans-serif;
+}
+#start-quiz-button {
+    color:rgb(255, 255, 255)
+}
+.btn {
+    color: #ffe988;
+}
+
+a:hover {
+    color: #46850c;
+    font-family: 'Archivo', sans-serif;
+}
+a {
+    color: #ffe988;
+    font-family: 'Archivo', sans-serif;
+}
+.btn:focus, .btn:active, .btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: #222221;
+}
+
+#finalScore {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family: 'Archivo', sans-serif;
+}
+#answerCheck {
+    font-style: bold;
+    color: #2c940d;
+}
+
+p {
+    font-family: 'Archivo', sans-serif;
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
