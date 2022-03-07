@@ -34,7 +34,7 @@
         choices: ["a. 1984", "b. 1991", "c. 1999", "d. 1966"],
         answer: "d. 1966"},
     {
-        question: "How many milaseconds are in one second?",
+        question: "How many milliseconds are in one second?",
         choices: ["a. 10", "b. 1000", "c. 100", "d. 1"],
         answer: "b. 1000"},
     {
